@@ -14,7 +14,7 @@ function Footer() {
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a> por <a href="mailto:juninhogpe@gmail.com">
-          Edson Jr
+          Edson Jr.
         </a>
       </p>
     </FooterBase>
